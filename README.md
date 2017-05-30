@@ -1,0 +1,2 @@
+# inventoryclear
+clear inventory now
